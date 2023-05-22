@@ -1,0 +1,16 @@
+{
+    "name": "BuhuBuhu.Pooler.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:216148faa0ad4c549b85f8f373e6dd4a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
