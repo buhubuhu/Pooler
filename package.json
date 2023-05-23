@@ -1,9 +1,8 @@
 {
-    "name": "com.buhubuhu.Pooler",
-    "displayName": "BuhuBuhu - Pooler",
-    "author": { "name": "Sebastian Sęk"},
+    "name": "com.buhubuhu.pooler",
     "version": "1.0.0",
-    "unity": "2018.4",
-    "description": "Universal, modular pooler for all kind of types of objects",
-    "dependencies": {}
+    "displayName": "BuhuBuhu - Pooler",
+    "author": "Sebastian Sęk",
+    "unity": "2019.4",
+    "description": "Universal, modular pooler"
 }
